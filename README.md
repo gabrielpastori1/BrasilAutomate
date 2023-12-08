@@ -25,7 +25,7 @@ Estes são apenas exemplos para ilustrar a organização e o tipo de conteúdo d
 
 ## Como Contribuir
 
-Contribuições são essenciais para o crescimento e aprimoramento do BrasilAutomate. Se você deseja adicionar novos exemplos, aprimorar a documentação existente ou sugerir melhorias, siga as diretrizes em nosso arquivo [CONTRIBUTING.md](LINK_PARA_CONTRIBUTING.md).
+Contribuições são essenciais para o crescimento e aprimoramento do BrasilAutomate. Se você deseja adicionar novos exemplos, aprimorar a documentação existente ou sugerir melhorias, siga as diretrizes em nosso arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Exemplos de Contribuições:
 
@@ -39,4 +39,4 @@ Para qualquer dúvida, sugestão ou discussão relacionada ao projeto, por favor
 
 ## Licença
 
-Este projeto é distribuído sob a licença XYZ. Veja o arquivo [LICENSE](LINK_PARA_LICENSE.md) para mais detalhes.
+Este projeto é distribuído sob a licença XYZ. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
